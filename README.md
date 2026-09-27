@@ -69,9 +69,4 @@ python train.py
 
 Ce projet est un exercice pédagogique de machine learning. Il ne constitue en aucun cas un outil de diagnostic et ne remplace pas l'avis d'un professionnel de santé. En France, le **3114** (numéro national de prévention du suicide) est joignable 24h/24, gratuitement.
 
-## 💡 Pistes d'amélioration
 
-- Effectuer l'imputation et la standardisation après la séparation train/test, dans un `Pipeline` scikit-learn, pour éviter toute fuite de données
-- Utiliser un encodage one-hot pour les variables catégorielles sans ordre naturel
-- Expliquer chaque prédiction avec SHAP pour rendre le modèle plus transparent
-- Déployer l'application en ligne sur Streamlit Community Cloud
