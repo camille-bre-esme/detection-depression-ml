@@ -4,7 +4,10 @@ Application qui estime le risque de dépression chez un étudiant à partir de q
 
 > Projet réalisé dans le cadre de ma formation d'ingénieure IA & Data à l'ESME Sudria.
 
-![Aperçu de l'application](assets/demo.png)
+
+https://github.com/user-attachments/assets/ca41ec59-68b0-43a6-8342-809e7855e6bf
+
+
 
 ## 🎯 Démarche
 
